@@ -1,2 +1,1 @@
-This is my first file.
-During 386 lecture, I like to sit on the third row.
+This is an idea for a new feature

@@ -1,1 +1,1 @@
-This is my second file.
+With the new feature in file_1, this file can be removed

@@ -1,0 +1,6 @@
+  584  git push origin feature-camilla47
+  589  cd git_practice
+  590  git status
+  591  git pull
+  598  git log --oneline ? gitlog.txt
+  599  git log --oneline > gitlog.txt

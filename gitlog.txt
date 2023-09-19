@@ -1,0 +1,18 @@
+c963a79 Merge pull request #2 from LotusEat3r/feature-LotusEat3r
+5dd760c Merge pull request #1 from alpal923/feature-alpal923
+8364966 Create feature branch and suggest new changes
+0b86a04 add my own dopeness
+5c0859f finishing the merge hopefully
+3bda1fc updating the new features
+99bf61b decide not to incorporate new features
+daae3ea attempting to commit my merge
+132b6bc updating file_1
+7c23f4d adding some features
+d0c85b8 add empty file
+7f2c6be adding gitignore file
+3d662a7 adding the readmefile
+683c564 making changes to file 2
+95f4fc1 adding changes to file 1
+9b6523d create new files
+49fdf9d create dummy2.txt.
+1d58ace practice committing dummy text file
